@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/PartnerQuotes.Api.props" />
+</Project>

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PartnerQuotes.Infrastructure/1.0.0": {
+        "dependencies": {
+          "PartnerQuotes.Core": "1.0.0"
+        },
+        "runtime": {
+          "PartnerQuotes.Infrastructure.dll": {}
+        }
+      },
+      "PartnerQuotes.Core/1.0.0": {
+        "runtime": {
+          "PartnerQuotes.Core.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PartnerQuotes.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PartnerQuotes.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

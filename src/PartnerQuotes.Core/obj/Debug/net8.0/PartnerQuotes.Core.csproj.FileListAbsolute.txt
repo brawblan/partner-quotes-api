@@ -1,0 +1,11 @@
+/Users/brandonblankenstein/Repos/partner-quotes-api/src/PartnerQuotes.Core/bin/Debug/net8.0/PartnerQuotes.Core.deps.json
+/Users/brandonblankenstein/Repos/partner-quotes-api/src/PartnerQuotes.Core/bin/Debug/net8.0/PartnerQuotes.Core.dll
+/Users/brandonblankenstein/Repos/partner-quotes-api/src/PartnerQuotes.Core/bin/Debug/net8.0/PartnerQuotes.Core.pdb
+/Users/brandonblankenstein/Repos/partner-quotes-api/src/PartnerQuotes.Core/obj/Debug/net8.0/PartnerQuotes.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandonblankenstein/Repos/partner-quotes-api/src/PartnerQuotes.Core/obj/Debug/net8.0/PartnerQuotes.Core.AssemblyInfoInputs.cache
+/Users/brandonblankenstein/Repos/partner-quotes-api/src/PartnerQuotes.Core/obj/Debug/net8.0/PartnerQuotes.Core.AssemblyInfo.cs
+/Users/brandonblankenstein/Repos/partner-quotes-api/src/PartnerQuotes.Core/obj/Debug/net8.0/PartnerQuotes.Core.csproj.CoreCompileInputs.cache
+/Users/brandonblankenstein/Repos/partner-quotes-api/src/PartnerQuotes.Core/obj/Debug/net8.0/PartnerQuotes.Core.dll
+/Users/brandonblankenstein/Repos/partner-quotes-api/src/PartnerQuotes.Core/obj/Debug/net8.0/refint/PartnerQuotes.Core.dll
+/Users/brandonblankenstein/Repos/partner-quotes-api/src/PartnerQuotes.Core/obj/Debug/net8.0/PartnerQuotes.Core.pdb
+/Users/brandonblankenstein/Repos/partner-quotes-api/src/PartnerQuotes.Core/obj/Debug/net8.0/ref/PartnerQuotes.Core.dll
