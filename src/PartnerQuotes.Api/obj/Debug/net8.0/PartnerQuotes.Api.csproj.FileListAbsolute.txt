@@ -35,3 +35,4 @@
 /Users/brandonblankenstein/Repos/partner-quotes-api/src/PartnerQuotes.Api/obj/Debug/net8.0/PartnerQuotes.Api.pdb
 /Users/brandonblankenstein/Repos/partner-quotes-api/src/PartnerQuotes.Api/obj/Debug/net8.0/PartnerQuotes.Api.genruntimeconfig.cache
 /Users/brandonblankenstein/Repos/partner-quotes-api/src/PartnerQuotes.Api/obj/Debug/net8.0/ref/PartnerQuotes.Api.dll
+/Users/brandonblankenstein/Repos/partner-quotes-api/src/PartnerQuotes.Api/obj/Debug/net8.0/PartnerQuotes.Api.sourcelink.json

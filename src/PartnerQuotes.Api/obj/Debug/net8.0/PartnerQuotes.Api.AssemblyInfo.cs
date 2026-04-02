@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PartnerQuotes.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd3f9569692462084dc8c53e507b6edd362eddcb")]
 [assembly: System.Reflection.AssemblyProductAttribute("PartnerQuotes.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PartnerQuotes.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

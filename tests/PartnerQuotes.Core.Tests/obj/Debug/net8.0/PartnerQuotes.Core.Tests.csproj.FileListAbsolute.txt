@@ -99,3 +99,4 @@
 /Users/brandonblankenstein/Repos/partner-quotes-api/tests/PartnerQuotes.Core.Tests/obj/Debug/net8.0/PartnerQuotes.Core.Tests.pdb
 /Users/brandonblankenstein/Repos/partner-quotes-api/tests/PartnerQuotes.Core.Tests/obj/Debug/net8.0/PartnerQuotes.Core.Tests.genruntimeconfig.cache
 /Users/brandonblankenstein/Repos/partner-quotes-api/tests/PartnerQuotes.Core.Tests/obj/Debug/net8.0/ref/PartnerQuotes.Core.Tests.dll
+/Users/brandonblankenstein/Repos/partner-quotes-api/tests/PartnerQuotes.Core.Tests/obj/Debug/net8.0/PartnerQuotes.Core.Tests.sourcelink.json

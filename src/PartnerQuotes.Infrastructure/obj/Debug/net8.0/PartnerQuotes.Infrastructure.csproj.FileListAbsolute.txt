@@ -13,3 +13,4 @@
 /Users/brandonblankenstein/Repos/partner-quotes-api/src/PartnerQuotes.Infrastructure/obj/Debug/net8.0/refint/PartnerQuotes.Infrastructure.dll
 /Users/brandonblankenstein/Repos/partner-quotes-api/src/PartnerQuotes.Infrastructure/obj/Debug/net8.0/PartnerQuotes.Infrastructure.pdb
 /Users/brandonblankenstein/Repos/partner-quotes-api/src/PartnerQuotes.Infrastructure/obj/Debug/net8.0/ref/PartnerQuotes.Infrastructure.dll
+/Users/brandonblankenstein/Repos/partner-quotes-api/src/PartnerQuotes.Infrastructure/obj/Debug/net8.0/PartnerQuotes.Infrastructure.sourcelink.json

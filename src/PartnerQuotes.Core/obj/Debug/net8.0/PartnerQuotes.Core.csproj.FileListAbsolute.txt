@@ -9,3 +9,4 @@
 /Users/brandonblankenstein/Repos/partner-quotes-api/src/PartnerQuotes.Core/obj/Debug/net8.0/refint/PartnerQuotes.Core.dll
 /Users/brandonblankenstein/Repos/partner-quotes-api/src/PartnerQuotes.Core/obj/Debug/net8.0/PartnerQuotes.Core.pdb
 /Users/brandonblankenstein/Repos/partner-quotes-api/src/PartnerQuotes.Core/obj/Debug/net8.0/ref/PartnerQuotes.Core.dll
+/Users/brandonblankenstein/Repos/partner-quotes-api/src/PartnerQuotes.Core/obj/Debug/net8.0/PartnerQuotes.Core.sourcelink.json

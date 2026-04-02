@@ -113,3 +113,4 @@
 /Users/brandonblankenstein/Repos/partner-quotes-api/tests/PartnerQuotes.Api.IntegrationTests/obj/Debug/net8.0/PartnerQuotes.Api.IntegrationTests.pdb
 /Users/brandonblankenstein/Repos/partner-quotes-api/tests/PartnerQuotes.Api.IntegrationTests/obj/Debug/net8.0/PartnerQuotes.Api.IntegrationTests.genruntimeconfig.cache
 /Users/brandonblankenstein/Repos/partner-quotes-api/tests/PartnerQuotes.Api.IntegrationTests/obj/Debug/net8.0/ref/PartnerQuotes.Api.IntegrationTests.dll
+/Users/brandonblankenstein/Repos/partner-quotes-api/tests/PartnerQuotes.Api.IntegrationTests/obj/Debug/net8.0/PartnerQuotes.Api.IntegrationTests.sourcelink.json
