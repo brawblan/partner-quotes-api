@@ -7,5 +7,5 @@ public interface IPartnerRepository
     Task<Partner> CreateAsync(Partner partner);
     Task<Partner?> GetByIdAsync(Guid id);
     Task<IEnumerable<Partner>> ListAsync(string? nameFilter = null);
-    Task<bool> ExistsByNameAsync(string name);
+    Task<bool> ExistsByEmailAsync(string email);
 }
