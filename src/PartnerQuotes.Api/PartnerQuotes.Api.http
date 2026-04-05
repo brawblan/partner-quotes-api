@@ -1,6 +1,69 @@
-@PartnerQuotes.Api_HostAddress = http://localhost:5111
+@PartnerQuotesApi_HostAddress = http://localhost:5111
 
-GET {{PartnerQuotes.Api_HostAddress}}/weatherforecast/
+### Create a new partner (happy path)
+POST {{PartnerQuotesApi_HostAddress}}/partners
+Content-Type: application/json
+
+{
+  "name": "Acme Corp",
+  "email": "acme@example.com",
+  "phone": "555-0100"
+}
+
+###
+
+### Create a partner without a phone (phone is optional)
+POST {{PartnerQuotesApi_HostAddress}}/partners
+Content-Type: application/json
+
+{
+  "name": "No Phone Inc",
+  "email": "nophone@example.com"
+}
+
+###
+
+### Create a partner with invalid email (expect 400)
+POST {{PartnerQuotesApi_HostAddress}}/partners
+Content-Type: application/json
+
+{
+  "name": "Bad Email",
+  "email": "not-an-email"
+}
+
+###
+
+### Create a partner with missing name (expect 400)
+POST {{PartnerQuotesApi_HostAddress}}/partners
+Content-Type: application/json
+
+{
+  "email": "missing@example.com"
+}
+
+###
+
+### Get all partners
+GET {{PartnerQuotesApi_HostAddress}}/partners
+Accept: application/json
+
+###
+
+### Get partners filtered by name
+GET {{PartnerQuotesApi_HostAddress}}/partners?nameFilter=Acme
+Accept: application/json
+
+###
+
+### Get a partner by ID (replace with a real ID)
+GET {{PartnerQuotesApi_HostAddress}}/partners/00000000-0000-0000-0000-000000000000
+Accept: application/json
+
+###
+
+### Get a partner with a non-existent ID (expect 404)
+GET {{PartnerQuotesApi_HostAddress}}/partners/ffffffff-ffff-ffff-ffff-ffffffffffff
 Accept: application/json
 
 ###
