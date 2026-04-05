@@ -13,7 +13,6 @@ public class PartnerService(IPartnerRepository repository) : IPartnerService
 
     public async Task<CreatePartnerResponseDTO> CreatePartnerAsync(CreatePartnerRequestDTO request)
     {
-
         if (await _repository.ExistsByEmailAsync(request.Email.Trim()))
         {
             throw new DuplicatePartnerException($"Email {request.Email} already exists.");
@@ -42,7 +41,7 @@ public class PartnerService(IPartnerRepository repository) : IPartnerService
     public async Task<PartnerResponseDTO?> GetPartnerAsync(Guid id)
     {
         Partner partner = await _repository.GetByIdAsync(id) ??
-            throw new PartnerNotFoundException($"Partner with id: {id} not found.");
+            throw new PartnerNotFoundException(id);
         return new PartnerResponseDTO(
                 partner.Id,
                 partner.Name,
